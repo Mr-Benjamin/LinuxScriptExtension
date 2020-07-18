@@ -1,0 +1,4 @@
+{
+"fileUrls":["https://github.com/Mr-Benjamin/BenSampleLinuxScript.git"],
+"commandToExecute": "./install_nginx.sh"
+}
